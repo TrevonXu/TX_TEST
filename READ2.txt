@@ -3,3 +3,5 @@ G
 Hotfix is added
 
 server fetch
+
+B1 changes on server for B2 local branch
