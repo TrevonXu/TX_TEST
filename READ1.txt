@@ -3,3 +3,5 @@ Final result of merging
 Branch B1
 
 B2 attempt 2
+
+B1: server linked to local B1
