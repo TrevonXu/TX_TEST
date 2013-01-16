@@ -1,1 +1,3 @@
 Final result of merging
+
+Local master
