@@ -1,3 +1,5 @@
 Final result of merging
 
 Branch B1
+
+B2 attempt 2
